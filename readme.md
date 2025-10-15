@@ -4,7 +4,7 @@
 
 Building on my previous project, this neural network tackles a more complex, multi-class classification problem. The goal is to teach a model to distinguish between three intertwined spiral arms of data points, visualizing how it learns to create highly non-linear decision boundaries.
 
-* **Tech Stack:** PyTorch (Neural Network & Training), Matplotlib (Visualization)
+You can see the previous project [here](https://github.com/Mors1A4/TrainingStudy/tree/main)
 
 ## Experimentation and Results
 
