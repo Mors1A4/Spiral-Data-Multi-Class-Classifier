@@ -4,10 +4,8 @@
 
 Building on my previous project, this neural network tackles a more complex, multi-class classification problem. The goal is to teach a model to distinguish between three intertwined spiral arms of data points, visualizing how it learns to create highly non-linear decision boundaries.
 
-* **Tech Stack:** PyTorch (Neural Network & Training), Matplotlib (Visualization), Pillow (GIF Creation)
-
----
-
+* **Tech Stack:** PyTorch (Neural Network & Training), Matplotlib (Visualization)
+* 
 ## Experimentation and Results
 
 Solving this problem required experimentation. An initial attempt using the same architecture as the circle project failed. Below is a comparison of different approaches.
