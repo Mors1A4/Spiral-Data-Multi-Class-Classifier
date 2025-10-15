@@ -26,7 +26,7 @@ Increasing the model's flexibility to 20 neurons helps slightly, but the `SGD` o
 
 ![Adam with 20 Neurons](images/training_progress(ADAM-20-600).gif)
 
-The most significant improvement came from switching to the **Adam optimizer**. Its adaptive learning rate allows it to find the complex solution efficiently. With a sufficiently flexible model (20 neurons), Adam solves the problem in only 600 epochs.
+The most significant improvement came from switching to the **Adam optimizer**. Its adaptive learning rate allows it to find the complex solution efficiently. With a sufficiently flexible model (20 neurons), Adam solves the problem in only 600 epochs. Its worth noting i could / should have reduced the epochs even further but i wanted to show how much faster it works.
 
 ### 4. Diminishing Returns: Adam with 128 Neurons
 
